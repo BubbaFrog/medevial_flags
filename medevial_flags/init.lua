@@ -15,7 +15,7 @@ local pi = math.pi
 local rad_180 = pi
 local rad_90 = pi / 2
 
-local flag_list = { "jerusalem",   "templar", "celtic", "oldfrench", "rome", "irish", "scotish", "pirate", "teutonic",  "raven", "hungary", "lionheart", "norse", "oldegypt",}
+local flag_list = { "jerusalem",   "templar", "celtic", "oldfrench", "rome", "irish", "scotish", "pirate", "teutonic", "raven", "hungary", "lionheart", "norse", "oldegypt" "merlin",}
 
 minetest.register_entity( "medevial_flags:wavingflag", {
 	initial_properties = {
